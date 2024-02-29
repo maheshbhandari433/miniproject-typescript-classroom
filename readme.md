@@ -24,17 +24,6 @@ Technologies Used
 - JavaScript (ES6+)
 - TypeScript
 
-Classroom Mini Project/
-│
-├── index.html           # HTML file containing the structure of the web page
-├── src/
-│   ├── style.css        # CSS file for styling the web page
-│   ├── classroom.ts     # TypeScript file containing functions for calculating statistics
-│   └── main.ts          # TypeScript file for handling form submission and UI interactions
-│
-└── README.md            # Markdown file containing project documentation
-
-
 Live Demo
 ---------
 
