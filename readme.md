@@ -27,7 +27,7 @@ Technologies Used
 Live Demo
 ---------
 
-You can view a live demo of this project at: [Classroom Mini Project](https://example.com)
+You can view a live demo of this project at: [Classroom Mini Project](https://main.d3uvo6udupxghk.amplifyapp.com/)
 
 License
 -------
